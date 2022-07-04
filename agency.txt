@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_timezone
-FRTM,Fox River Trolley Museum,https://foxtrolley.org/,America/Chicago
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+FRTM,Fox River Trolley Museum,https://foxtrolley.org/,America/Chicago,en-US,847-697-4676,https://foxtrolley.org/visit,info@foxtrolley.org
